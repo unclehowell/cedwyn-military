@@ -1,5 +1,5 @@
 {
- "version": "0.1.0",
+ "version": "0.2.0",
  "generated_utc": "2026-11-07",
  "title": "Military involvement: timeline",
  "strands": {
@@ -565,6 +565,81 @@
    ],
    "cuts": "Both point to BT Archives, which has not yet been asked for staff records (EV-0310 was about telephone and wayleave records).",
    "next": "BT Archives staff-records search request (free)."
+  },
+  {
+   "id": "MIL-036",
+   "strand": 4,
+   "date": "1916",
+   "title": "First World War: the War Agricultural Committee's Cardiff area sheets and plans for Llandough and Leckwith",
+   "quote": "With: reference number, map number, name of holding, tenant, owner, area, arable, 1916 and quota to be ploughed, as follows: (a) 123 Llandough, (b) 124 Leckwith ... (b) Llandough [K.123] Glamorgan 6 inch sheet XLVII on which the parish boundary is marked, with sheet attached with details of holdings, tenant, area and of fields ploughed attached",
+   "source": "Glamorgan Archives DSA/43/1/1/3 (sheets for most of the parishes) and DSA/43/1/1/5 (parish plans), catalogue descriptions; the Cardiff area (DSA/43/1, 1916) lists the parishes of Leckwith and Llandough",
+   "url": "https://canfod.glamarchives.gov.uk/records/DSA/43/1",
+   "label": "record",
+   "kind": "catalogue entry, not read",
+   "status": "NEW",
+   "ids": [],
+   "cuts": "A First World War plough-quota survey of every holding in the area, not a taking or requisition. The Great House Farm row has not been read.",
+   "next": "Glamorgan Archives: view DSA/43/1/1/3 sheet (a) and plan DSA/43/1/1/5 (b) in the search room (free) and record the Great House Farm row as written."
+  },
+  {
+   "id": "MIL-037",
+   "strand": 4,
+   "date": "1939-1945",
+   "title": "The Glamorgan War Agricultural Executive Committee's own papers (Hubert Alexander, chairman)",
+   "quote": "The Glamorgan War Agricultural Executive Committee in World War II ... Hubert Alexander Chairman (1 file, 2 bundles). Barry Sub District, Sep 1939-31 May 1940: Bundle for the Parishes Penarth, Lavernock, Sully, Barry, St. Andrews Major, Michaelston Le Pit. Giving details of properties, area, grassland, wheat proposed to be sown and correspondence.",
+   "source": "Glamorgan Archives DSA/43/3, with DSA/43/3/1 (minutes 1939-1944), DSA/43/3/3 (executive papers 1941-1945), DSA/43/3/4/1 (Farms Sub-committee 1940-1941) and DSA/43/3/6 (Barry Sub District), catalogue descriptions",
+   "url": "https://canfod.glamarchives.gov.uk/records/DSA/43/3",
+   "label": "record",
+   "kind": "catalogue entry, not read",
+   "status": "KNOWN",
+   "ids": [],
+   "cuts": "Not read. Llandough and Leckwith are not named in the catalogue's parish bundles (Penarth, Lavernock and Sully are). No catalogue entry found shows any Tŷ Mawr (Great House) land directed or requisitioned. The county minutes at Kew are MIL-025.",
+   "next": "Glamorgan Archives: view DSA/43/3/6 bundle 2 and DSA/43/3/4/1 (free) for any Great House Farm entry."
+  },
+  {
+   "id": "MIL-038",
+   "strand": 0,
+   "date": "1939-1945",
+   "title": "Leckwith bombing decoy: \"Leckwith Civil QL and SF\" at Cwrt-yr-Ala",
+   "quote": "Leckwith Civil QL and SF ... ST 140739. Built on the lawns of the Cwrt Yr Ala estate of 800 acres in total.",
+   "source": "Ivor Jones, Wartime Bombing Decoys in Wales (2015), decoy list (full-text search of the scanned copy; page not noted)",
+   "url": "https://archive.org/details/wartimebombingde0000jone",
+   "label": "record",
+   "kind": "published list (secondary)",
+   "status": "NEW",
+   "ids": [],
+   "cuts": "Cwrt-yr-Ala, on the Leckwith side of the Ely valley, about 3 km west of St Dochdwy's Church, Llandough (grid references compared); not Tŷ Mawr (Great House) land and no link to the farm.",
+   "next": "TNA Discovery search (free) for the decoy site's file among the Air Ministry decoy records, for its dates of use."
+  },
+  {
+   "id": "MIL-039",
+   "strand": 0,
+   "date": "1940s",
+   "title": "Decoy fires in Leckwith Woods drew bombs away from Cardiff",
+   "quote": "intended to be a major raid on Cardiff, fires were lit in Leckwith Woods on the other side of the Ely River and many bombs dropped harmlessly there",
+   "source": "Malcolm Pill, A Cardiff Family in the Forties (1999) (full-text search of the scanned copy; page not noted)",
+   "url": "https://archive.org/details/cardifffamilyinf0000pill",
+   "label": "testimony",
+   "kind": "published memoir",
+   "status": "NEW",
+   "ids": [],
+   "cuts": "A memoir; the raid's date is not given in the passage read. Leckwith Woods, not Tŷ Mawr (Great House) land.",
+   "next": "Read the full page in the borrowable copy (free Internet Archive loan) for the raid's date; Glamorgan Archives catalogue search (free) for Cardiff ARP incident records of that night."
+  },
+  {
+   "id": "MIL-040",
+   "strand": 0,
+   "date": "1914-1918",
+   "title": "Llandough and Leckwith War Memorial Institute (charity 213965)",
+   "quote": "THE HALL REPRESENTS A MEMORIAL HALL TO THOSE INHABITANTS OF THE AREA OF BENEFIT WHO DIED IN THE 1914-1918 WAR. ... Area of benefit: LLANDOUGH AND LECKWITH AND THE SURROUNDING NEIGHBOURHOOD",
+   "source": "Charity Commission register, charity 213965, governing document (Scheme of the Commissioners dated 6 February 2001)",
+   "url": "https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/213965/governing-document",
+   "label": "record",
+   "kind": "charity register entry",
+   "status": "NEW",
+   "ids": [],
+   "cuts": "A memorial to the parish's dead, not a military presence. The names on the hall's plaques have not been read; War Memorials Online memorial 254737 did not answer on 7 Nov 2026 (not checked).",
+   "next": "Read the plaque names on War Memorials Online 254737 or the IWM War Memorials Register (free); list them as written, with no family relationship assumed."
   }
  ]
 }
